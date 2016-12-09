@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:dadoTransporteTransportXml
+	xmlns:ns2="http://esus.ufsc.br/dadoinstalacao" xmlns:ns3="http://esus.ufsc.br/dadotransporte"
+	xmlns:ns4="http://esus.ufsc.br/fichavisitadomiciliarmaster">
+	<uuidDadoSerializado>6257621-4234c010-9e4a-4517-a7b3-35c3eb69a056</uuidDadoSerializado>
+	<tipoDadoSerializado>8</tipoDadoSerializado>
+	<codIbge>-</codIbge>
+	<cnesDadoSerializado>2257621</cnesDadoSerializado>
+	<ineDadoSerializado>1234500015</ineDadoSerializado>
+	<numLote>1</numLote>
+	<ns4:fichaVisitaDomiciliarMasterTransport>
+		<uuidFicha>6257621-4234c010-9e4a-4517-a7b3-35c3eb69a056</uuidFicha>
+		<tpCdsOrigem>1</tpCdsOrigem>
+		<headerTransport>
+			<profissionalCNS>115423907540000</profissionalCNS>
+			<cboCodigo_2002>515105</cboCodigo_2002>
+			<cnes>1111111</cnes>
+			<ine>1382855330</ine>
+			<dataAtendimento>1462546800000</dataAtendimento>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+		</headerTransport>
+		<visitasDomiciliares>
+			<turno>3</turno>
+			<cnsCidadao>898050047594936</cnsCidadao>
+			<dtNascimento>1462546800000</dtNascimento>
+			<sexo>0</sexo>
+			<statusVisitaCompartilhadaOutroProfissional>true</statusVisitaCompartilhadaOutroProfissional>
+			<motivosVisita>37</motivosVisita>
+			<motivosVisita>3</motivosVisita>
+			<motivosVisita>9</motivosVisita>
+			<motivosVisita>27</motivosVisita>
+			<motivosVisita>30</motivosVisita>
+			<motivosVisita>1</motivosVisita>
+			<desfecho>1</desfecho>
+			<microArea>43</microArea>
+			<stForaArea>false</stForaArea>
+			<tipoDeImovel>1</tipoDeImovel>
+			<pesoAcompanhamentoNutricional>65</pesoAcompanhamentoNutricional>
+			<alturaAcompanhamentoNutricional>172</alturaAcompanhamentoNutricional>
+		</visitasDomiciliares>
+	</ns4:fichaVisitaDomiciliarMasterTransport>
+	<ns2:remetente>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>11144477735</cpfOuCnpj>
+		<nomeOuRazaoSocial>Razao social</nomeOuRazaoSocial>
+	</ns2:remetente>
+	<ns2:originadora>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>11144477735</cpfOuCnpj>
+		<nomeOuRazaoSocial>Razao social</nomeOuRazaoSocial>
+	</ns2:originadora>
+	<versao major="2" minor="1" revision="0" />
+</ns3:dadoTransporteTransportXml>

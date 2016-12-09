@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:dadoTransporteTransportXml
+	xmlns:ns2="http://esus.ufsc.br/dadoinstalacao" xmlns:ns3="http://esus.ufsc.br/dadotransporte"
+	xmlns:ns4="http://esus.ufsc.br/cadastrodomiciliar">
+	<uuidDadoSerializado>5444429-78b4990f-78df-477c-8f96-aec49e2c47b3
+	</uuidDadoSerializado>
+	<tipoDadoSerializado>3</tipoDadoSerializado>
+	<codIbge>4205407</codIbge>
+	<cnesDadoSerializado>5444429</cnesDadoSerializado>
+	<ineDadoSerializado>5511178891</ineDadoSerializado>
+	<numLote>3</numLote>
+	<ns4:cadastroDomiciliarTransport>
+		<animaisNoDomicilio>128</animaisNoDomicilio>
+		<condicaoMoradia>
+			<abastecimentoAgua>117</abastecimentoAgua>
+			<destinoLixo>93</destinoLixo>
+			<formaEscoamentoBanheiro>122</formaEscoamentoBanheiro>
+			<localizacao>83</localizacao>
+			<materialPredominanteParedesExtDomicilio>109</materialPredominanteParedesExtDomicilio>
+			<nuComodos>6</nuComodos>
+			<nuMoradores>5</nuMoradores>
+			<situacaoMoradiaPosseTerra>76</situacaoMoradiaPosseTerra>
+			<stDisponibilidadeEnergiaEletrica>true</stDisponibilidadeEnergiaEletrica>
+			<tipoAcessoDomicilio>89</tipoAcessoDomicilio>
+			<tipoDomicilio>86</tipoDomicilio>
+			<aguaConsumoDomicilio>97</aguaConsumoDomicilio>
+		</condicaoMoradia>
+		<enderecoLocalPermanencia>
+			<bairro>PONTA DE BAIXO</bairro>
+			<cep>88104020</cep>
+			<codigoIbgeMunicipio>4216602</codigoIbgeMunicipio>
+			<nomeLogradouro>DO IMPERADOR</nomeLogradouro>
+			<numero>S/N</numero>
+			<numeroDneUf>25</numeroDneUf>
+			<tipoLogradouroNumeroDne>081</tipoLogradouroNumeroDne>
+			<stSemNumero>true</stSemNumero>
+			<microArea>20</microArea>
+			<stForaArea>false</stForaArea>
+		</enderecoLocalPermanencia>
+		<familias>
+			<dataNascimentoResponsavel>381596400000</dataNascimentoResponsavel>
+			<numeroCnsResponsavel>898001152206097</numeroCnsResponsavel>
+			<numeroMembrosFamilia>5</numeroMembrosFamilia>
+			<rendaFamiliar>7</rendaFamiliar>
+			<resideDesde>1114916400000</resideDesde>
+			<stMudanca>false</stMudanca>
+		</familias>
+		<fichaAtualizada>false</fichaAtualizada>
+		<quantosAnimaisNoDomicilio>2</quantosAnimaisNoDomicilio>
+		<stAnimaisNoDomicilio>true</stAnimaisNoDomicilio>
+		<statusTermoRecusa>false</statusTermoRecusa>
+		<tpCdsOrigem>1</tpCdsOrigem>
+		<uuid>5444429-78b4990f-78df-477c-8f96-aec49e2c47b3</uuid>
+		<uuidFichaOriginadora>5444429-78b4990f-78df-477c-8f96-aec49e2c47b3</uuidFichaOriginadora>
+		<tipoDeImovel>1</tipoDeImovel>
+		<instituicaoPermanencia />
+		<headerTransport>
+			<profissionalCNS>708607577486986</profissionalCNS>
+			<cboCodigo_2002>322205</cboCodigo_2002>
+			<cnes>5444429</cnes>
+			<ine>5511178891</ine>
+			<dataAtendimento>1476370800000</dataAtendimento>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+		</headerTransport>
+	</ns4:cadastroDomiciliarTransport>
+	<ns2:remetente>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR DA INSTALAÇÃO</nomeOuRazaoSocial>
+		<versaoSistema>2.1.05</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:remetente>
+	<ns2:originadora>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR DA INSTALAÇÃO</nomeOuRazaoSocial>
+		<versaoSistema>2.1.05</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:originadora>
+	<versao major="2" minor="1" revision="0" />
+</ns3:dadoTransporteTransportXml>

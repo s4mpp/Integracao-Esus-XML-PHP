@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:dadoTransporteTransportXml
+	xmlns:ns2="http://esus.ufsc.br/dadoinstalacao" xmlns:ns3="http://esus.ufsc.br/dadotransporte"
+	xmlns:ns4="http://esus.ufsc.br/fichaavaliacaoelegibilidade">
+	<uuidDadoSerializado>5444428-74c34ce7-fbc6-4b33-9171-8c0f224655f1</uuidDadoSerializado>
+	<tipoDadoSerializado>11</tipoDadoSerializado>
+	<codIbge>4205407</codIbge>
+	<cnesDadoSerializado>5444428</cnesDadoSerializado>
+	<ineDadoSerializado>8033774553</ineDadoSerializado>
+	<numLote>3</numLote>
+	<ns4:fichaAvaliacaoElegibilidadeTransport>
+		<headerTransport>
+			<lotacaoFormPrincipal>
+				<profissionalCNS>703006821796679</profissionalCNS>
+				<cboCodigo_2002>223505</cboCodigo_2002>
+				<cnes>5444428</cnes>
+				<ine>8033774553</ine>
+			</lotacaoFormPrincipal>
+			<dataAtendimento>1476370800000</dataAtendimento>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+		</headerTransport>
+		<uuidFicha>5444428-74c34ce7-fbc6-4b33-9171-8c0f224655f1</uuidFicha>
+		<tpCdsOrigem>1</tpCdsOrigem>
+		<turno>1</turno>
+		<cnsCidadao>898050047989752</cnsCidadao>
+		<dataNascimentoCidadao>1012662000000</dataNascimentoCidadao>
+		<sexoCidadao>1</sexoCidadao>
+		<nomeCidadao>ANA JULIA DA SILVA MEIRELES</nomeCidadao>
+		<racaCorCidadao>1</racaCorCidadao>
+		<nomeMaeCidadao>MARCELA MEIRELES</nomeMaeCidadao>
+		<desconheceNomeMae>false</desconheceNomeMae>
+		<codigoIbgeMunicipioNascimento>4120655</codigoIbgeMunicipioNascimento>
+		<nacionalidadeCidadao>1</nacionalidadeCidadao>
+		<emailCidadao>ana_julia_sm@gmail.com</emailCidadao>
+		<cuidadorCidadao>4</cuidadorCidadao>
+		<atencaoDomiciliarProcedencia>1</atencaoDomiciliarProcedencia>
+		<atencaoDomiciliarModalidade>1</atencaoDomiciliarModalidade>
+		<condicoesAvaliadas>10</condicoesAvaliadas>
+		<condicoesAvaliadas>5</condicoesAvaliadas>
+		<condicoesAvaliadas>20</condicoesAvaliadas>
+		<cid10Principal>T740</cid10Principal>
+		<conclusaoDestinoElegivel>1</conclusaoDestinoElegivel>
+		<endereco>
+			<bairro>CENTRO</bairro>
+			<cep>88103020</cep>
+			<codigoIbgeMunicipio>4216602</codigoIbgeMunicipio>
+			<complemento>APTO 104</complemento>
+			<nomeLogradouro>PADRE MACÁRIO</nomeLogradouro>
+			<numero>30</numero>
+			<numeroDneUf>25</numeroDneUf>
+			<telefoneContato>4833335621</telefoneContato>
+			<telefoneResidencia>4832595654</telefoneResidencia>
+			<tipoLogradouroNumeroDne>081</tipoLogradouroNumeroDne>
+			<stSemNumero>false</stSemNumero>
+			<pontoReferencia>EM FRENTE A FARMÁCIA</pontoReferencia>
+		</endereco>
+		<desconheceNomePai>true</desconheceNomePai>
+		<paisNascimento>31</paisNascimento>
+		<cnsCuidador>898001161481488</cnsCuidador>
+	</ns4:fichaAvaliacaoElegibilidadeTransport>
+	<ns2:remetente>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR DA INSTALAÇÃO</nomeOuRazaoSocial>
+		<versaoSistema>2.1.05</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:remetente>
+	<ns2:originadora>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR DA INSTALAÇÃO</nomeOuRazaoSocial>
+		<versaoSistema>2.1.05</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:originadora>
+	<versao major="2" minor="1" revision="0" />
+</ns3:dadoTransporteTransportXml>

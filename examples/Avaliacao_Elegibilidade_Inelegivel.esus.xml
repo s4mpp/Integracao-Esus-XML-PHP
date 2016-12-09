@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:dadoTransporteTransportXml
+	xmlns:ns2="http://esus.ufsc.br/dadoinstalacao" xmlns:ns3="http://esus.ufsc.br/dadotransporte"
+	xmlns:ns4="http://esus.ufsc.br/fichaavaliacaoelegibilidade">
+	<uuidDadoSerializado>5444428-c8d73ebf-0a5d-45e1-8706-166830e03e84
+	</uuidDadoSerializado>
+	<tipoDadoSerializado>11</tipoDadoSerializado>
+	<codIbge>4205407</codIbge>
+	<cnesDadoSerializado>5444428</cnesDadoSerializado>
+	<ineDadoSerializado>8033774553</ineDadoSerializado>
+	<numLote>3</numLote>
+	<ns4:fichaAvaliacaoElegibilidadeTransport>
+		<headerTransport>
+			<lotacaoFormPrincipal>
+				<profissionalCNS>708607577486986</profissionalCNS>
+				<cboCodigo_2002>223505</cboCodigo_2002>
+				<cnes>5444428</cnes>
+				<ine>8033774553</ine>
+			</lotacaoFormPrincipal>
+			<dataAtendimento>1476370800000</dataAtendimento>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+		</headerTransport>
+		<uuidFicha>5444428-c8d73ebf-0a5d-45e1-8706-166830e03e84</uuidFicha>
+		<tpCdsOrigem>1</tpCdsOrigem>
+		<turno>1</turno>
+		<cnsCidadao>898001152206569</cnsCidadao>
+		<dataNascimentoCidadao>978361200000</dataNascimentoCidadao>
+		<sexoCidadao>0</sexoCidadao>
+		<desconheceNomeMae>false</desconheceNomeMae>
+		<atencaoDomiciliarProcedencia>1</atencaoDomiciliarProcedencia>
+		<atencaoDomiciliarModalidade>4</atencaoDomiciliarModalidade>
+		<condicoesAvaliadas>2</condicoesAvaliadas>
+		<cid10Principal>Z602</cid10Principal>
+		<conclusaoDestinoInelegivel>3</conclusaoDestinoInelegivel>
+		<conclusaoDestinoInelegivel>5</conclusaoDestinoInelegivel>
+		<endereco>
+			<stSemNumero>false</stSemNumero>
+		</endereco>
+		<desconheceNomePai>false</desconheceNomePai>
+	</ns4:fichaAvaliacaoElegibilidadeTransport>
+	<ns2:remetente>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR DA INSTALAÇÃO</nomeOuRazaoSocial>
+		<versaoSistema>2.1.05</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:remetente>
+	<ns2:originadora>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR DA INSTALAÇÃO</nomeOuRazaoSocial>
+		<versaoSistema>2.1.05</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:originadora>
+	<versao major="2" minor="1" revision="0" />
+</ns3:dadoTransporteTransportXml>
